@@ -47,6 +47,16 @@ Our research-driven team co-builds custom AI solutions, from intelligent agents 
 
 AI transforms how you work, from automating routine tasks to delivering personalized customer experiences. It’s your chance to innovate or eliminate inefficiencies.
 
+### What We've Built
+
+- **Fornax** - AI system that evaluates startup pitch decks for investors. White-label solution that automates screening.
+- **Memo** - Knowledge-sharing platform with AI-powered search and privacy-focused content discovery.
+- **Observer** - Social listening agent that analyzes technology trends and provides strategic insights.
+- **Droppii** - AI-powered product consultation and recommendation systems for Vietnam's dropshipping market.
+- **Plot** - Creative platform using AI to automatically label and manage social media content.
+- **Inloop** - Human-in-the-loop AI systems delivering consulting services with AI-powered research.
+- **MCPilot** - Discord bot supporting Model Context Protocol configurations through AI agents.
+
 ### Proven success
 
 - A logistics client cut costs by 20% with AI tracking.
